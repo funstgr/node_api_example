@@ -34,7 +34,7 @@ app.use('/products', productRoutes);
 app.use('/orders', orderRoutes);
 
 app.use((req, res, next)=> {
-  const errror = new Error('Not Found');
+  const error = new Error('Not Found');
   error.status = 404;
   next(error);
 });
