@@ -1,0 +1,16 @@
+PATCH /products/5e65075b904d1a139412e176 HTTP/1.1
+Host: localhost:3000
+Content-Type: application/json
+User-Agent: PostmanRuntime/7.19.0
+Accept: */*
+Cache-Control: no-cache
+Host: localhost:3000
+Accept-Encoding: gzip, deflate
+Content-Length: 90
+Connection: keep-alive
+cache-control: no-cache
+
+[
+	{"propName":"name", "value": "Cell Phone2"}, 
+	{"propName":"price", "value": "43.00"}
+]

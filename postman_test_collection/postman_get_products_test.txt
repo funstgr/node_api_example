@@ -1,0 +1,10 @@
+GET /products HTTP/1.1
+Host: localhost:3000
+User-Agent: PostmanRuntime/7.19.0
+Accept: */*
+Cache-Control: no-cache
+Host: localhost:3000
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+cache-control: no-cache
+
