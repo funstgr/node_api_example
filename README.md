@@ -1,4 +1,4 @@
-Node API Example using Node, Mongo DB, mongoose and postman 
+## Node API Example using Node, Mongo DB, mongoose and postman 
 
 ## Environment dependencies
 
@@ -39,4 +39,3 @@ $ npm start starts the express server
   ### `npm run lint_project_fix`
 
   Use this script to run project wide eslint with --fix for autofix on project in quiet mode (no warnings)
-  
